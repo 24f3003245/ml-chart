@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic scene of a long dining table where most plates are empty and a large group of people sit with nothing to eat, while at one end of the table a few plates are overloaded with excessive food. The contrast is stark but natural, showing inequality in distribution. The setting is grounded and physically believable. Natural lighting, highly detailed, no text, no labels, no diagrams, single frame.",
+  "model": "DALL·E 3",
+  "concept": "vanishing gradient",
+  "metaphor": "Food abundance at one end of a long table gradually disappears before reaching people at the far end, representing signal decay across layers"
+}
